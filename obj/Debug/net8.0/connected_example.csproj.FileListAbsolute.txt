@@ -1,0 +1,14 @@
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\bin\Debug\net8.0\connected_example.exe
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\bin\Debug\net8.0\connected_example.deps.json
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\bin\Debug\net8.0\connected_example.runtimeconfig.json
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\bin\Debug\net8.0\connected_example.dll
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\bin\Debug\net8.0\connected_example.pdb
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\obj\Debug\net8.0\connected_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\obj\Debug\net8.0\connected_example.AssemblyInfoInputs.cache
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\obj\Debug\net8.0\connected_example.AssemblyInfo.cs
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\obj\Debug\net8.0\connected_example.csproj.CoreCompileInputs.cache
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\obj\Debug\net8.0\connected_example.dll
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\obj\Debug\net8.0\refint\connected_example.dll
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\obj\Debug\net8.0\connected_example.pdb
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\obj\Debug\net8.0\connected_example.genruntimeconfig.cache
+C:\Users\sabri\OneDrive\Desktop\Esport\4th term\Programming\2nd exam\module2_assignment-main\module2_assignment-main\module2_assignment-main\template\obj\Debug\net8.0\ref\connected_example.dll
